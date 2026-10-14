@@ -1,0 +1,6 @@
+*.class
+bin/
+*.jar
+.vscode/
+.DS_Store
+*.code-workspace
